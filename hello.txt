@@ -1,1 +1,2 @@
 Hello, Git world!
+branch2 changes
